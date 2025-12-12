@@ -2,7 +2,7 @@
 ## Objetivos del módulo
 - Comprender la diferencia entre tipos de datos primitivos y de referencia
 - Qué son objetos y matrices en JS.
-- Métodos coumnes de arrays y objetos.
+- Métodos comunes de arrays y objetos.
 - Métodos inmutables
 - Iteración sobre objetos y arrays.
 - Buenas prácticas y errores comunes.

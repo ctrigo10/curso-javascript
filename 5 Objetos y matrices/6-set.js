@@ -29,7 +29,7 @@ console.log(mySet.size)
 
 // Convertir un set a un array
 let myArray = Array.from(mySet);
-console.log(myArray)
+console.log('myArray', myArray)
 
 // Convertir un array a set
 const myArray2 = ['a', 'a', 'b', 'c']
