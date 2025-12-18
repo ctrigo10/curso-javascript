@@ -37,3 +37,16 @@ Mostrar en la lista
 1. Envién el url del proyecto (en la url debe estar su nombre completo)
 2. Que tareas realizaron (4/5 es 40pts)
 3. Celular
+
+# Fecha de entrega
+- Hasta el 03 de enero
+
+Feliz Navidad y un próspero año nuevo
+ ```markdown
+        ✨
+       / \
+      /o o\
+     /o o o\
+    /o o o o\
+   /_________\
+  ```
